@@ -1,0 +1,5 @@
+2021-03-25T13:27:16.0636620+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2021-03-25T13:27:16.1347110+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2021-03-25T13:27:16.1606970+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-03-25T13:27:16.1807430+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-03-25T13:27:16.1992790+01:00  [INF] Content root path: "/Users/macbookair/Desktop/OppgaveModule/Kunde-SPA-Routing 2/Kunde-SPA-Routing" (b5d60022)
